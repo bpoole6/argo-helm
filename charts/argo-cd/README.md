@@ -234,7 +234,7 @@ server:
         redirectToHttps:
           enabled: true 
       managedCertificate:
-        enabled: true
+        create: true
 ```
 
 ## Synchronizing Changes from Original Repository
